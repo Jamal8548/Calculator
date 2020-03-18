@@ -6,6 +6,7 @@ class Calculator
    	this.previousoperand = previousoperand
    	this.currentoperand = currentoperand
    	this.clearbutton()
+    
    }
 
    clearbutton()
